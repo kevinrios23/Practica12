@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "343533283259",
+    "project_id": "imageuploadfirebase-88b4a",
+    "storage_bucket": "imageuploadfirebase-88b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343533283259:android:bb7c90933408bc20d9c69e",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343533283259-a4m4foucqm70181goqrqvum6qhhoj1f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsPG4DTGPrkFmDqW_DDqIOqrEOmkjO8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343533283259-a4m4foucqm70181goqrqvum6qhhoj1f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343533283259:android:2ee99669db9a2e65d9c69e",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343533283259-a4m4foucqm70181goqrqvum6qhhoj1f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsPG4DTGPrkFmDqW_DDqIOqrEOmkjO8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343533283259-a4m4foucqm70181goqrqvum6qhhoj1f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
